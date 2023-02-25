@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "ca698ca9-e0bb-462d-ab93-56113e18f4ae",
+		"name": "Collection_Git",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25627080"
+	},
+	"item": [
+		{
+			"name": "Get_API doc",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://1VQDHXQ8EF73QTHESPT7UHU9AJQPLXXL@164.92.218.36:8080/api",
+					"protocol": "http",
+					"auth": {
+						"user": "1VQDHXQ8EF73QTHESPT7UHU9AJQPLXXL"
+					},
+					"host": [
+						"164",
+						"92",
+						"218",
+						"36"
+					],
+					"port": "8080",
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
